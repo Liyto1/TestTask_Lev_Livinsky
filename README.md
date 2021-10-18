@@ -1,5 +1,6 @@
 # TestTask_Lev_Livinsky
-#Task:
+# Testing http://computer-database.gatling.io/computers
+# Task
 http://computer-database.gatling.io/computers
 Написать автоматический тест для проверки того, что функциональность “Add a new computer” в “Computer database” работает (или не работает).
 
