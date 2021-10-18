@@ -1,5 +1,9 @@
 # TestTask_Lev_Livinsky
-# Testing http://computer-database.gatling.io/computers
+1. Win10 64;
+2. IntelliJ IDEA v2021.2.2;
+3. Browser: Firefox;
+4. Webdiver: geckodriver;
+# Testing: http://computer-database.gatling.io/computers
 # Task
 http://computer-database.gatling.io/computers
 Написать автоматический тест для проверки того, что функциональность “Add a new computer” в “Computer database” работает (или не работает).
